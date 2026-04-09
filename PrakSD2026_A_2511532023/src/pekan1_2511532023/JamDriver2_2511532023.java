@@ -68,8 +68,6 @@ public class JamDriver2_2511532023 {
 			} else {
 				System.out.println("[Error] Input tidak valid! Silahkan ulangi.\n");
 			}
-		}
-		
+		}	
 	}
-
 }
